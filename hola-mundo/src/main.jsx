@@ -6,6 +6,7 @@ import './index.css'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
-    <p>holla</p>
+    <p>holla sss</p>
+    <p>dfsf</p>
   </React.StrictMode>,
 )
